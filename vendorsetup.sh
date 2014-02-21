@@ -1,0 +1,5 @@
+add_lunch_combo aosplus_emulator-eng
+add_lunch_combo aosplus_grouper-eng
+add_lunch_combo aosplus_hammerhead-user
+add_lunch_combo aosplus_mako-user
+add_lunch_combo aosplus_manta-user
